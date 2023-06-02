@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div align="center">
+  <a href="https://solved.ac/taipaise/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taipaise" alt="Solved.ac Profile">
+  </a>
+</div>
+<br>
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=taipaise" alt="Anurag's GitHub stats">
   </a>
