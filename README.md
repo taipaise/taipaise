@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <a href="https://solved.ac/taipaise/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taipaise" alt="Solved.ac Profile">
+    <img src="http://mazandi.herokuapp.com/api?handle=taipaise&theme=warm"/>
   </a>
 </div>
 <br>
