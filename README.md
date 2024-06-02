@@ -42,14 +42,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </div>
 
-
-<br>
-<br>
-<div align="center">
-  <a href="https://solved.ac/taipaise/">
-    <img src="http://mazandi.herokuapp.com/api?handle=taipaise&theme=warm"/>
-  </a>
-</div>
 <br>
 
 <div align="center">
